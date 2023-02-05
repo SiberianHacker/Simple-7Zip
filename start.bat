@@ -1,0 +1,2 @@
+python cracker.py
+pause
